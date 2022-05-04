@@ -5,8 +5,8 @@
    “role” : “Fullstack Dev”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/emilio-martel-952a02205/",
-      "IG"       : "https://www.instagram.com/emilio_martel"
+      "Linkedin" : "https://www.linkedin.com/in/emiliomartel",
+      "IG"       : "https://www.instagram.com/emmartelll"
      }
  }
 ```
