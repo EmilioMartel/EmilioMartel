@@ -60,6 +60,7 @@ My objective is to be able to share and motivate people who feel a strong concer
 ### 🌱 I'm currently learning...
 
 - Docker 
-- Advance Angular JS
+- Kubernetes
+- Hyperledger Fabric
 - Solidity / Truffle Suite 
 ---
