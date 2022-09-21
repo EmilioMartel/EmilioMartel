@@ -54,7 +54,7 @@
 </p>
 
 
-### <a href="https://www.linkedin.com/in/emiliomartel" target="blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>  <a href="https://www.linkedin.com/in/emiliomartel" target="_blank">Emilio Martel</a>
+### <a href="https://www.linkedin.com/in/emiliomartel" target="blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="30" height="30"/></a>  <a href="https://www.linkedin.com/in/emiliomartel" target="_blank">Emilio Martel</a>
 My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology.
 
 ### 🌱 I'm currently learning...
